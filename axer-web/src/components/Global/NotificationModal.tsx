@@ -1,6 +1,6 @@
 import { Stack, Alert } from "@mui/material";
 import { useContext, useEffect } from "react";
-import { AlertsContext } from "./../providers/NotificationsContext";
+import { AlertsContext } from "../../providers/NotificationsContext";
 
 export default () => {
 	const { alerts, setAlerts } = useContext(AlertsContext);

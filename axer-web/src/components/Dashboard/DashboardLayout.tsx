@@ -19,8 +19,8 @@ import TimerIcon from "@mui/icons-material/Timer";
 import FormatQuoteIcon from "@mui/icons-material/FormatQuote";
 import HomeIcon from "@mui/icons-material/Home";
 import ManageSearchIcon from "@mui/icons-material/ManageSearch";
-import DashboardServerCooldown from "../pages/Dashboard/DashboardServerCooldown";
-import DashboardServerGeneral from "../pages/Dashboard/DashboardServerGeneral";
+import DashboardServerCooldown from "../../pages/Dashboard/DashboardServerCooldown";
+import DashboardServerGeneral from "../../pages/Dashboard/DashboardServerGeneral";
 
 const drawerWidth = 240;
 

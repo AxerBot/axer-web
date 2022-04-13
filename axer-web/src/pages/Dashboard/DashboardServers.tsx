@@ -1,7 +1,7 @@
 import Box from "@mui/material/Box";
 import { useState, useEffect } from "react";
-import HomeHeader from "../../components/HomeHeader";
-import SearchInput from "../../components/SearchInput";
+import HomeHeader from "../../components/Global/HomeHeader";
+import SearchInput from "../../components/Global/SearchInput";
 import ServerSelector from "../../components/Dashboard/ServerSelector";
 import GetManageableGuilds from "../../helpers/GetManageableGuilds";
 

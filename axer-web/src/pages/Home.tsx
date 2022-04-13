@@ -1,7 +1,7 @@
 import { useState } from "react";
-import HomeHeader from "../components/HomeHeader";
-import LandingHeader from "../components/LandingHeader";
-import NotificationModal from "../components/NotificationModal";
+import HomeHeader from "../components/Global/HomeHeader";
+import LandingHeader from "../components/home/LandingHeader";
+import NotificationModal from "../components/Global/NotificationModal";
 
 export default () => {
 	return (

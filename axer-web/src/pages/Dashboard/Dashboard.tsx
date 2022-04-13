@@ -1,7 +1,7 @@
 import DashboardPagination from "./DashboardPagination";
-import HomeHeader from "../../components/HomeHeader";
-import NotificationModal from "../../components/NotificationModal";
-import DashboardLayout from "../../components/DashboardLayout";
+import HomeHeader from "../../components/Global/HomeHeader";
+import NotificationModal from "../../components/Global/NotificationModal";
+import DashboardLayout from "../../components/Dashboard/DashboardLayout";
 
 export default () => {
 	return (

@@ -8,7 +8,7 @@ import { theme } from "./styles/theme";
 import DashboardServers from "./pages/Dashboard/DashboardServers";
 import DashboardServerGeneral from "./pages/Dashboard/DashboardServerGeneral";
 import Dashboard from "./pages/Dashboard/Dashboard";
-import Authenticate from "./components/Authenticate";
+import Authenticate from "./components/Global/Authenticate";
 import { AlertsContextProvider } from "./providers/NotificationsContext";
 
 ReactDOM.render(

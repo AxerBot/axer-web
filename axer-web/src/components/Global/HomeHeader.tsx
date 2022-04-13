@@ -15,8 +15,8 @@ import {
 	getLoginCredentials,
 	signOut,
 	startLoginSession,
-} from "./../helpers/Login";
-import { goToDashboard } from "../helpers/Routes";
+} from "../../helpers/Login";
+import { goToDashboard } from "../../helpers/Routes";
 
 const pages = [
 	{

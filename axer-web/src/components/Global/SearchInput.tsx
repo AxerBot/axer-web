@@ -1,7 +1,7 @@
 import { alpha, InputBase } from "@mui/material";
 import SearchIcon from "@material-ui/icons/Search";
 import styled from "styled-components";
-import { theme } from "./../styles/theme";
+import { theme } from "../../styles/theme";
 import { SyntheticEvent } from "react";
 
 export default ({ onInput }: any) => {
